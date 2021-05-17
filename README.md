@@ -46,7 +46,11 @@ Visual Studio Code 1.38.1
 
     The same methods as described above for the candidate analysis was used for the county analysis. Instead of finding the candidate names, the county names were found and used as keys in the county_votes dictionary. The number of votes within each county were stored as the values of the dictionary. Then, these values were used to calculate the percentage of votes in each county. The county with the highest percentage of votes was then determined using an if statement.
 
-     **County Results**
+<img width="565" alt="Screen Shot 2021-05-16 at 5 22 25 PM" src="https://user-images.githubusercontent.com/83552696/118418040-a28f7a80-b66b-11eb-8824-80a1c73b4502.png">
+
+<img width="423" alt="Screen Shot 2021-05-16 at 5 24 03 PM" src="https://user-images.githubusercontent.com/83552696/118418047-a58a6b00-b66b-11eb-81d9-acf4f7e2cb67.png">
+
+   **County Results**
 
 <img width="261" alt="Screen Shot 2021-05-16 at 5 14 25 PM" src="https://user-images.githubusercontent.com/83552696/118417796-922ad000-b66a-11eb-8d60-974814b6b0bc.png">
 
