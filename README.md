@@ -29,6 +29,7 @@ Visual Studio Code 1.38.1
 <img width="485" alt="Screen Shot 2021-05-16 at 4 27 29 PM" src="https://user-images.githubusercontent.com/83552696/118417656-fb5e1380-b669-11eb-8f36-03a68df799e3.png">
 
    **Candidate Results**
+   
 <img width="315" alt="Screen Shot 2021-05-16 at 5 14 35 PM" src="https://user-images.githubusercontent.com/83552696/118417741-50018e80-b66a-11eb-8b65-ba0fa3b9c774.png">
 
 
