@@ -16,7 +16,7 @@ Visual Studio Code 1.38.1
 
     Within the for loop, added the candidate names to a list called candidate_options if they were not already in the list.
     
-<img width="465" alt="Screen Shot 2021-05-16 at 4 21 02 PM" src="https://user-images.githubusercontent.com/83552696/118417585-8c80ba80-b669-11eb-9350-28c177869850.png">
+    <img width="465" alt="Screen Shot 2021-05-16 at 4 21 02 PM" src="https://user-images.githubusercontent.com/83552696/118417585-8c80ba80-b669-11eb-9350-28c177869850.png">
 
     - Candidate votes:
 
@@ -26,8 +26,6 @@ Visual Studio Code 1.38.1
 
         Converted the candidate votes and total votes to decimal floating point data types to calculate what percentage of the total votes each candidate recieved.
         
-        <img width="485" alt="Screen Shot 2021-05-16 at 4 27 29 PM" src="https://user-images.githubusercontent.com/83552696/118417607-b0440080-b669-11eb-838b-03e6e08a77f5.png">
-
 
 
 * **The Winning Candidate**
