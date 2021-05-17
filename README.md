@@ -26,7 +26,8 @@ Visual Studio Code 1.38.1
 
         Converted the candidate votes and total votes to decimal floating point data types to calculate what percentage of the total votes each candidate recieved.
         
-        <img width="485" alt="Screen Shot 2021-05-16 at 4 27 29 PM" src="https://user-images.githubusercontent.com/83552696/118417589-95718c00-b669-11eb-8b5c-222e2bd71c40.png">
+        <img width="485" alt="Screen Shot 2021-05-16 at 4 27 29 PM" src="https://user-images.githubusercontent.com/83552696/118417607-b0440080-b669-11eb-838b-03e6e08a77f5.png">
+
 
 
 * **The Winning Candidate**
