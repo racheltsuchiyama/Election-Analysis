@@ -46,8 +46,6 @@ Visual Studio Code 1.38.1
 
     The same methods as described above for the candidate analysis was used for the county analysis. Instead of finding the candidate names, the county names were found and used as keys in the county_votes dictionary. The number of votes within each county were stored as the values of the dictionary. Then, these values were used to calculate the percentage of votes in each county. The county with the highest percentage of votes was then determined using an if statement.
 
-<img width="565" alt="Screen Shot 2021-05-16 at 5 22 25 PM" src="https://user-images.githubusercontent.com/83552696/118418040-a28f7a80-b66b-11eb-8824-80a1c73b4502.png">
-
 <img width="423" alt="Screen Shot 2021-05-16 at 5 24 03 PM" src="https://user-images.githubusercontent.com/83552696/118418047-a58a6b00-b66b-11eb-81d9-acf4f7e2cb67.png">
 
    **County Results**
@@ -58,6 +56,7 @@ Visual Studio Code 1.38.1
 
 The audit was successful in providing the Colorado Board of Elections with the necessary information. The code printed the results in the terminal, while also saving it to a text file, for easy extraction. While this analysis was performed for a local congressional election, the code can be edited for larger scale elections like the US Presidential election. 
 
-### Modifying the script for general election audit use
+### Modifying the script for any election audit
 Depending on the structure of the dataset to be analysed, the candidate names and counties could be stored in a different column then the one specified in my code. Before performing analysis of other elections, check which columns contain the candidate names and counties and correct accordingly.
-For country-wide elections, analysing the voter turnout per state would be more help. The code containing the county analysis can be altered to perform state analysis.
+For country-wide elections, analysing the voter turnout per state would be more helpful. The code for state analysis would follow the same model as the county analysis if the dataset has a column specifying the state of the voter. New variables, like lists and dictionaries, would need to be added to store the information.
+If the election is an instant-runoff election, then a candidate needs to recieve at least 50% of the vote. Therefore, to determine the winning candidate, the winning percentage would be greater than or equal to 50 instead of a variable.
