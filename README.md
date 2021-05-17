@@ -15,14 +15,19 @@ Visual Studio Code 1.38.1
 * **Candidates**
 
     Within the for loop, added the candidate names to a list called candidate_options if they were not already in the list.
+    
+<img width="465" alt="Screen Shot 2021-05-16 at 4 21 02 PM" src="https://user-images.githubusercontent.com/83552696/118417585-8c80ba80-b669-11eb-9350-28c177869850.png">
 
     - Candidate votes:
 
-     Used the candidate names as keys in the candidate_votes        dictionary, and added the votes they received as the dictionary values (line 50).
+        Used the candidate names as keys in the candidate_votes dictionary, and added the votes they received as the dictionary values (line 50).
 
     - Candidate percentage of votes:
 
-    Converted the candidate votes and total votes to decimal floating point data types to calculate what percentage of the total votes each candidate recieved.
+        Converted the candidate votes and total votes to decimal floating point data types to calculate what percentage of the total votes each candidate recieved.
+        
+        <img width="485" alt="Screen Shot 2021-05-16 at 4 27 29 PM" src="https://user-images.githubusercontent.com/83552696/118417589-95718c00-b669-11eb-8b5c-222e2bd71c40.png">
+
 
 * **The Winning Candidate**
 
